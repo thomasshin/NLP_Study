@@ -1,6 +1,7 @@
 # NLP_Study
 Personal Study on NLP
 
-1. HuggingFace NLP Course
-2. NLP with Transformers
-3. Andrej Karpathy's Neural Network: Zero to Hero
+1. Transfomers
+2. HuggingFace NLP Course
+3. NLP with Transformers
+4. Andrej Karpathy's Neural Network: Zero to Hero
